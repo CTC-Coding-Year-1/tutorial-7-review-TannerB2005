@@ -40,7 +40,7 @@ label {
    width: 120px;
 }
 
-img[src="/images/rb_sizes.png"] {
+img[src="../images/rb_sizes.png"] {
    display: block;
    margin-left: 135px;
 }
